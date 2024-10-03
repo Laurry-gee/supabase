@@ -27,7 +27,7 @@
     "@radix-ui/react-portal": "^1.0.1",
     "@radix-ui/react-tooltip": "^1.0.5",
     "@scaleleap/pg-format": "^1.0.0",
-    "@sentry/browser": "^6.15.0",
+    "@sentry/browser": "^8.33.0",
     "@sentry/nextjs": "^6.17.4",
     "@serafin/schema-builder": "^0.18.2",
     "@stripe/react-stripe-js": "^1.7.0",
